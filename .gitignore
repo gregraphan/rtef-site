@@ -1,0 +1,10 @@
+node_modules/
+package.json
+package-lock.json
+.DS_Store
+Thumbs.db
+.claude/
+_build/
+_ref/
+_verify/
+*.log
